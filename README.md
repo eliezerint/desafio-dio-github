@@ -6,10 +6,10 @@ Dio desafio github
 
 #### Boot Camp
 =================
-## Repositorio github para desafio do boot camp dio
-#### Tecnologia back end
-> Java 11 utlizando o spring boot 2.6.7
-> Swagger via spring fox
-> Para persistência de dados JPA
-> Banco de dados MySql
-> Migration
+### Repositorio github para desafio do boot camp dio
+### Tecnologia back end
+#### Java 11 utlizando o spring boot 2.6.7
+####  Swagger via spring fox
+#### Para persistência de dados JPA
+#### Banco de dados MySql
+#### Migration
