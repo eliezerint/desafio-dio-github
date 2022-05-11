@@ -2,7 +2,8 @@ const array = [1, 2, 3, 4, 5, 6];
 const array1 = [];
 
 function validaArray(arr, numero) {
-
+ const meuErro = new Error();
+ return meuErro
     try {
 
         if (!arr && !numero) {
